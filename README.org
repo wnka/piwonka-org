@@ -1,0 +1,8 @@
+* What is this?
+
+A layer that contains Phil Piwonka's spacemacs preferences for org-mode
+
+* How to use
+Clone into ~/.emacs.d/private/piwonka-org
+
+Add 'piwonka-org' to dotspacemacs-configuration-layers
